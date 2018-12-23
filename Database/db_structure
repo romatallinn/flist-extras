@@ -1,0 +1,47 @@
+main
+	-> card-types
+		-> <card_shortcut>
+			-> icon: <filename>.<extension>
+			-> link: <url>/
+			-> name:
+
+	-> cards
+		-> <user_id>
+			-> <card_id>
+				-> name:
+				-> username:
+				-> description:
+				-> group_id:
+				-> privacy: (int)
+				-> type:
+				-> url:
+
+	-> followers
+		-> <user_id>
+			-> <follower_id>
+				-> date: (DD/MM/YYYY)
+
+	-> following
+		-> <user_id>
+			-> <followed_id>
+				-> date: (DD/MM/YYYY)
+
+	-> groups
+		-> <user_id>
+			-> <group_id>
+				-> name:
+
+	-> users
+		-> name:
+		-> surname:
+		-> username:
+		-> username_lowercased:
+		-> description:
+     		-> img:
+     		-> img_update:
+		-> verified: (bool)
+		-> fcm_tokens
+			-> <token_id> : true
+			-> ...
+
+	

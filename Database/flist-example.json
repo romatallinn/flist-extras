@@ -1,0 +1,304 @@
+{
+  "card-types" : {
+    "behance" : {
+      "icon" : "behance.png",
+      "link" : "https://www.behance.net/",
+      "name" : "Behance"
+    },
+    "email" : {
+      "icon" : "email.png",
+      "link" : "mailto:",
+      "name" : "Email"
+    },
+    "fb" : {
+      "icon" : "fb.png",
+      "link" : "https://facebook.com/",
+      "name" : "Facebook"
+    },
+    "github" : {
+      "icon" : "github.png",
+      "link" : "https://github.com/",
+      "name" : "GitHub"
+    },
+    "gplus" : {
+      "icon" : "gplus.png",
+      "link" : "https://plus.google.com/",
+      "name" : "Google+"
+    },
+    "in" : {
+      "icon" : "in.png",
+      "link" : "https://linkedin.com/in/",
+      "name" : "LinkedIn"
+    },
+    "insta" : {
+      "icon" : "insta.png",
+      "link" : "https://instagram.com/",
+      "name" : "Instagram"
+    },
+    "medium" : {
+      "icon" : "medium.png",
+      "link" : "https://medium.com/@",
+      "name" : "Medium"
+    },
+    "myspace" : {
+      "icon" : "myspace.png",
+      "link" : "https://myspace.com/",
+      "name" : "MySpace"
+    },
+    "none" : {
+      "icon" : "none.png",
+      "link" : "",
+      "name" : "Other"
+    },
+    "ok" : {
+      "icon" : "ok.png",
+      "link" : "https://ok.ru/",
+      "name" : "Odnoklassniki"
+    },
+    "patreon" : {
+      "icon" : "patreon.png",
+      "link" : "https://www.patreon.com/",
+      "name" : "Patreon"
+    },
+    "paypal" : {
+      "icon" : "paypal.png",
+      "link" : "https://paypal.me/",
+      "name" : "PayPal"
+    },
+    "phone" : {
+      "icon" : "phone.png",
+      "link" : "tel:",
+      "name" : "Phone Number"
+    },
+    "pint" : {
+      "icon" : "pint.png",
+      "link" : "https://pinterest.com/",
+      "name" : "Pinterest"
+    },
+    "quora" : {
+      "icon" : "quora.png",
+      "link" : "https://www.quora.com/profile/",
+      "name" : "Quora"
+    },
+    "reddit" : {
+      "icon" : "reddit.png",
+      "link" : "https://reddit.com/u/",
+      "name" : "Reddit"
+    },
+    "skype" : {
+      "icon" : "skype.png",
+      "link" : "skype://",
+      "name" : "Skype"
+    },
+    "snap" : {
+      "icon" : "snap.png",
+      "link" : "https://snapchat.com/add/",
+      "name" : "Snapchat"
+    },
+    "soundcloud" : {
+      "icon" : "soundcloud.png",
+      "link" : "https://soundcloud.com/",
+      "name" : "SoundCloud"
+    },
+    "steam" : {
+      "icon" : "steam.png",
+      "link" : "https://steamcommunity.com/id/",
+      "name" : "Steam"
+    },
+    "telegram" : {
+      "icon" : "telegram.png",
+      "link" : "https://t.me/",
+      "name" : "Telegram"
+    },
+    "tiktok" : {
+      "icon" : "tiktok.png",
+      "link" : "vm.tiktok.com/",
+      "name" : "TikTok"
+    },
+    "tw" : {
+      "icon" : "tw.png",
+      "link" : "https://twitter.com/",
+      "name" : "Twitter"
+    },
+    "twitch" : {
+      "icon" : "twitch.png",
+      "link" : "https://twitch.tv/",
+      "name" : "Twitch"
+    },
+    "vimeo" : {
+      "icon" : "vimeo.png",
+      "link" : "https://vimeo.com/",
+      "name" : "Vimeo"
+    },
+    "vk" : {
+      "icon" : "vk.png",
+      "link" : "https://vk.com/",
+      "name" : "VK"
+    },
+    "yt" : {
+      "icon" : "yt.png",
+      "link" : "https://youtube.com/",
+      "name" : "YouTube"
+    }
+  },
+  "cards" : {
+    "NakM83PPXMfVvH0qqXpJRVOcVN83" : {
+      "-LPD5ItN20sv62nOEVlX" : {
+        "description" : "Follow me on Instagram in order to see different moments of my life that I find interesting.",
+        "group_id" : "-LPD4vI2oxXFveOFvzA6",
+        "name" : "Instagram",
+        "privacy" : 0,
+        "type" : "insta",
+        "url" : "https://instagram.com/romeo998",
+        "username" : "romeo998"
+      },
+      "-LPD5isX038V4A3V0lyg" : {
+        "description" : "Get know my interests and connections. I use Facebook, however, mostly for my relations with close friends and family.",
+        "group_id" : "-LPD4vI2oxXFveOFvzA6",
+        "name" : "Facebook",
+        "privacy" : 0,
+        "type" : "fb",
+        "url" : "https://facebook.com/Roma.Sirokov",
+        "username" : "Roma.Sirokov"
+      },
+      "-LPD6AGrgBdl1OswT_cl" : {
+        "description" : "Here I post my thoughts or the news that I find interesting. Mostly career or tech related.",
+        "group_id" : "-LPD4vI2oxXFveOFvzA6",
+        "name" : "Twitter",
+        "privacy" : 0,
+        "type" : "tw",
+        "url" : "https://twitter.com/SirokovR",
+        "username" : "SirokovR"
+      },
+      "-LQtXf6qqj59klwZRDwx" : {
+        "description" : "The overview of my professional experience and achievements.",
+        "group_id" : "-LPD4pziNHnCLljwpaoc",
+        "name" : "LinkedIn",
+        "privacy" : 0,
+        "type" : "in",
+        "url" : "https://linkedin.com/in/rsirokov",
+        "username" : "rsirokov"
+      },
+      "-LQtY40C2FoKObA24COB" : {
+        "description" : "Email for business inquires regarding Flist.",
+        "group_id" : "-LPD4pziNHnCLljwpaoc",
+        "name" : "Email",
+        "privacy" : 0,
+        "type" : "email",
+        "url" : "mailto:sirokov@flist.me",
+        "username" : "sirokov@flist.me"
+      },
+      "-LQte8BeZaKh63YIIPxj" : {
+        "description" : "I don’t use Snapchat that much anymore, but time to time check what my friends post there.",
+        "group_id" : "-LPD4vI2oxXFveOFvzA6",
+        "name" : "Snapchat",
+        "privacy" : 0,
+        "type" : "snap",
+        "url" : "https://snapchat.com/add/romatallinn",
+        "username" : "romatallinn"
+      },
+      "-LR8qmK1DqQ18f5fca6f" : {
+        "description" : "Various examples of my programming code. It’s almost empty there now, but I expect to upload more in the future.",
+        "group_id" : "-LPD4pziNHnCLljwpaoc",
+        "name" : "GitHub",
+        "privacy" : 0,
+        "type" : "github",
+        "url" : "https://github.com/romatallinn",
+        "username" : "romatallinn"
+      }
+    }
+  },
+  "followers" : {
+    "NakM83PPXMfVvH0qqXpJRVOcVN83" : {
+      "6E4fBp8HIIbyjwbEysmpMFRoS5p1" : {
+        "date" : "01/12/2018"
+      }
+    },
+    "i4SGyIeJWMgfIxYccCcNqc158vx2" : {
+      "NakM83PPXMfVvH0qqXpJRVOcVN83" : {
+        "date" : "03/12/2018"
+      }
+    }
+  },
+  "following" : {
+    "6E4fBp8HIIbyjwbEysmpMFRoS5p1" : {
+      "NakM83PPXMfVvH0qqXpJRVOcVN83" : {
+        "date" : "01/12/2018"
+      }
+    },
+    "NakM83PPXMfVvH0qqXpJRVOcVN83" : {
+      "i4SGyIeJWMgfIxYccCcNqc158vx2" : {
+        "date" : "03/12/2018"
+      }
+    }
+  },
+  "groups" : {
+    
+    "NakM83PPXMfVvH0qqXpJRVOcVN83" : {
+      "-LPD4pziNHnCLljwpaoc" : {
+        "name" : "Career"
+      },
+      "-LPD4vI2oxXFveOFvzA6" : {
+        "name" : "Socials"
+      }
+    },
+    "i4SGyIeJWMgfIxYccCcNqc158vx2" : {
+      "-LRWUA2Es2SDP3Hu0W-O" : {
+        "name" : "Social"
+      },
+      "-LRWVBFqvWhtA4Dvg0VP" : {
+        "name" : "More serious stuff"
+      },
+      "-LS1HP2IIk7Q5MBSpE5b" : {
+        "name" : "test "
+      }
+    },
+    "wxkElutgv9gV1SwoD0Dfm7w6j8F3" : {
+      "-LRWQ0w53EDTbMm-JJOF" : {
+        "name" : "Socials"
+      }
+    }
+  },
+  "users" : {
+    "0gZiVREfjSYVCVyHTJP2ug8m0Ym2" : {
+      "username" : "test1",
+      "username_lowercased" : "test1",
+      "verified" : false
+    },
+  
+    "NakM83PPXMfVvH0qqXpJRVOcVN83" : {
+      "date" : "19/10/2018 22:47 +0200",
+      "description" : "🇳🇴 🇪🇪 🇷🇺 \n👑 20 y.o.\n👨‍🎓 Studying BSc CS&E at TU Delft 🇳🇱",
+      "fcm_tokens" : {
+        "cCAtQlaGL_g:APA91bGelar2WZ0w9Hd9stG0xew5nqurXUc5VvEsXGL6Lp7-6CoB8bF-UZu_IBvcTL6eu5PEq0illiXQHmNofWa1B3f8BslN5xFoXuYQoh0ItoFyfsYNEwPCXOEPBatlHHpXnApH5Tz9" : true,
+        "dAL784fK5N4:APA91bHSKx3uvdhihMwg1ayyTAws1hWmnoau4D7GBTEH2qYs7Yh8wnaBG46DS_b1ACxhdX4ujWcaXajZI4bg-QZ3qEt7Gqi7eZcqJsH03N3kXIcXCZKh-D5pzdqkFXwUzgqKVDPoHURy" : true,
+      },
+      "img" : "NakM83PPXMfVvH0qqXpJRVOcVN83.jpg",
+      "img_update" : "19/10/2018",
+      "name" : "Roman",
+      "surname" : "Sirokov",
+      "username" : "rsirokov",
+      "username_lowercased" : "rsirokov",
+      "verified" : true
+    },
+    "q47rY4ZL9NXcTsW3kEM2lNsUiFM2" : {
+      "date" : "11/11/2018",
+      "description" : "Apple’s test account",
+      "fcm_tokens" : {
+        "c-7wEoe3Tsw:APA91bFtY9HzhhJ2qvIQXsq_nYmcjl0ieGRlONda-Z1nE2K7hD2SXqcvp0GOGxx1QKxXpJqvl3xDa1wvtnk8O3ra924mUAmjwjfHya2BoMfmN1cGYo975jSo-EOU89hdXyS8x-J-o9G8" : true,
+        "c1vGFuCgPPE:APA91bGgH87QzLfYfzKoRORdz8idvjn95TtKXj4QkHv69j6yQ8cuvuHEo1-fWbP4m9nfoHbQ9HtG42AEFrHfSG84NT8y-i0q9vOSe-TmfLVbNAeXBw6jfzk2KwP2FC_1pdg8JT8oLtaL" : true,
+        "cbej1bIJXCk:APA91bE8a14ROR4Iax_j_eIdfz4Aa6ia0TgwYlhlHNDEPOGOQkeEf0B-2Mh8FycO4U6mF_Z56JcQVc8s5ZKTmyWu9mejgiXGyFY1HeEQ4Qs9HcdPSrCD4qxoQkQrTgAKGiLqHd58b6YU" : true,
+        "chVFX5eDEsM:APA91bGPNoHrtl5hNAVmClslojbN0Z6b6o5ybGmxNyrUVWLqZI5HRvbXcicfo9v4JYTCS1MCJGFwZmJ0734QvLqiWaRHgUs40J2BEXtrMfWY35yXHvBn5ruijXB_3PY8eRBDjYS6vrVW" : true,
+        "dPJPfyHLD-g:APA91bF26d3t6ah4gb_gpcAB0iC-Ne454DDASDi7rG1RpI-Qp2tjihSVhXKZUWekezl9WqUshYlWWpLGzU7kS347LX0yVi62CWeb-WjzLJf1KF4XdfMbbOHkZ1YEZ8PZWonHYj2sMTcG" : true,
+        "f37DFDsymLo:APA91bHXpXk2Im9pau1YiHrh48H7WOdDWb1lzPjZQAsAg8GTHcWfOiXCmoTJGolXWSYrnMuOhL9blEMzI4gp1hEuFSqfD9dyFoFw-ubLNlpa32B0xlpnLGKNcYPFDbN47acNDL3OK8RD" : true,
+        "fclLHbU-2y4:APA91bGXztrn2Krc9ni7PgJAHYiarzYk_gunCI2ZdYAvKMCkNrfcPYyNKfyjgE4cMqaXEjSmQIQR8n3ia3Pe9yuSo-JKVhsRYa0pDv0k_EcTKcfwnxfCcF-DnZytcvLyyw83EsuhWrj0" : true,
+        "fnXZnJJgXR0:APA91bHiILz_CjiCeyC_x0khzFaJnDjkqtWtvF42KmwYZDeRE2oS0pjSpJgEQhoccJIwbbdRrPrfkIJyQXKZOOj1mxku4sqsBDMh-Ewa_qqSc7SKn63ekgIbkH9HA0u0KJUpih526s0k" : true
+      },
+      "name" : "iPhone",
+      "surname" : "Doctor",
+      "username" : "apple",
+      "username_lowercased" : "apple",
+      "verified" : false
+    }
+  }
+}

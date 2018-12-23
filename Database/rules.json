@@ -1,0 +1,35 @@
+{
+  "rules": {
+    ".read": true,
+      
+    "cards": {
+      "$uid": { 
+
+        ".write": "$uid === auth.uid",
+
+        "$card_id": {
+          ".validate": "root.child('card-types').child(newData.child('type').val()).exists()"
+        }
+        
+      }
+    },
+      
+    "groups": {
+    	"$uid": { ".write": "$uid === auth.uid" }
+    },
+      
+    "users": { 
+      ".indexOn": ["username_lowercased"],        
+      "$uid": { ".write": "$uid === auth.uid" }
+            
+    },
+      
+    "following": {
+    	"$uid": { 
+        ".write": "$uid === auth.uid"
+        }
+        
+      }
+    
+  }
+}
