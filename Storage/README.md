@@ -1,4 +1,4 @@
-# Flist Firebase Realtime Database
+# Flist Firebase Storage
 
 [![Flist](https://flist.me/css/favicons/android-icon-72x72.png)](https://flist.me)
 
